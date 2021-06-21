@@ -10,4 +10,4 @@
 ### 💪🏽 I like to do weight training, basketball, and soccer
 ### 📫 How to reach me: feel free to send me an email
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgur1994&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=dlgur1994&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats) -->
