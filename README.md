@@ -1,12 +1,15 @@
 ### Hi there 👋
+[![Website](https://img.shields.io/badge/Website-dlgur1994.github.io-blue?style=flat-square&logo=google-chrome)](https://dlgur1994.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hyuk%20Lee-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brian-hyuk-lee-/)
+[![Email](https://img.shields.io/badge/Email-sydbne@gmail.com-blue?style=flat-square&logo=gmail)](mailto:sydbne17@gmail.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgur1994%2Fdlgur1994&count_bg=%2379C83D&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23DFD8D8&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+🤔 I have interests on Autonomous-Driving, especially Object Detection
+🌱 I’m currently learning Machine Learning, Computer Vision
+
 
 <!--
-**dlgur1994/dlgur1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
