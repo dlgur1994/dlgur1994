@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning** and **Computer Vision**
 - 💪🏽 I like to do weight training, basketball, and soccer
 - 📫 How to reach me: feel free to send me an email
+- 👍 [Resume](https://github.com/dlgur1994/dlgur1994/blob/main/resume.pdf)
 
 ### Skill
 - Python, C++
