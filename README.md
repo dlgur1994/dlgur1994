@@ -7,7 +7,7 @@
 ### 🤔 I have interests on Autonomous-Driving, especially Object Detection</br>
 ### 🌱 I’m currently learning Machine Learning, Computer Vision</br>
 ### 💪🏽 I like to do weight training, basketball, and soccer</br>
-📫 How to reach me: feel free to send me an email</br>
+#### 📫 How to reach me: feel free to send me an email</br>
 
 <!--
 - 🔭 I’m currently working on ...
