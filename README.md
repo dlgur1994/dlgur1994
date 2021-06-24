@@ -4,8 +4,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgur1994%2Fdlgur1994&count_bg=Orange&title_bg=%23555555&icon=awesomelists.svg&icon_color=success&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi
-- 🎓 I graduated from the department of **"Computer Science"**.
-- 💻 I'm looking forward to working as an **"AI Engineer"**
+- 🎓 I graduated from the department of **Computer Science**.
+- 💻 I'm looking forward to working as an **AI Engineer**
 - 👀 I have interests on **Autonomous-Driving**, especially Object Detection
 - 🌱 I’m currently learning **Machine Learning** and **Computer Vision**
 - 💪🏽 I like to do weight training, basketball, and soccer
