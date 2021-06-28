@@ -5,14 +5,13 @@
 
 ### Hi
 - 🎓 I graduated from the department of **Computer Science**.
-- 💻 I'm looking forward to working as an **AI Engineer**
-- 👀 I have interests on **Automotive Industry**
+- 💻 I'm looking forward to working as an **AI Engineer** on **Automotive Industry**
 - 🌱 I’m currently learning **Machine Learning** and **Computer Vision**
 - 💪🏽 I like to do weight training, basketball, and soccer
 - 🚗 I'm a big fan of Ford F150
-- 📫 How to reach me: feel free to send me an email
 - 📕 [Tech Blog](https://dlgur1994.github.io)
 - 🧾 [Resume](https://github.com/dlgur1994/dlgur1994/blob/main/resume.pdf)
+- 📫 How to reach me: feel free to send me an email
 
 ### Skill
 - Python, C++
