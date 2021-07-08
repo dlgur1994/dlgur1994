@@ -9,9 +9,9 @@
 - 🌱 I’m currently learning **Machine Learning** and **Computer Vision**
 - 💪🏽 I like to do weight training, basketball, and soccer
 - 🚗 I'm a big fan of Ford F150
+- 📫 How to reach me: feel free to send me an email
 - 📕 [Tech Blog](https://dlgur1994.github.io)
 - 🧾 [Resume](https://dlgur1994.github.io/about/)
-- 📫 How to reach me: feel free to send me an email
 
 ### Skill
 - Python, C++
