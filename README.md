@@ -10,7 +10,7 @@
 - 💪🏽 I like to do weight training, basketball, and soccer
 - 🚗 I'm a big fan of Ford F150
 - 📕 [Tech Blog](https://dlgur1994.github.io)
-- 🧾 [Resume](https://github.com/dlgur1994/dlgur1994/blob/main/resume.pdf)
+- 🧾 [Resume](https://dlgur1994.github.io/about/)
 - 📫 How to reach me: feel free to send me an email
 
 ### Skill
