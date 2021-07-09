@@ -11,7 +11,7 @@
 - 🚗 I'm a big fan of Ford F150
 - 📫 How to reach me: feel free to send me an email
 - 📕 [Tech Blog](https://dlgur1994.github.io)
-- 🧾 [Resume](https://dlgur1994.github.io/about/)
+- 🧾 [Resume](https://www.notion.so/Hyuk-Lee-aff570f89904451492b06afd08b47e1e)
 
 ### Skill
 - Python, C++
