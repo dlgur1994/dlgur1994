@@ -4,7 +4,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgur1994%2Fdlgur1994&count_bg=Orange&title_bg=%23555555&icon=awesomelists.svg&icon_color=success&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Hi
-- 🎓 I earned B.S. in **Computer Science and Engineering**
+- 🎓 I earned my B.S. in **Computer Science and Engineering**
 - 🌱 My interests lie in the fields of **Machine Learning** and **Computer Vision**
 - 💻 I'm looking forward to working as an **AI Engineer** on the **Automotive Industry**
 - 💪🏽 I like to do weight training, basketball, and soccer
