@@ -6,7 +6,7 @@
 ### Hi
 - 🎓 I earned my B.S. in **Computer Science and Engineering**
 - 🌱 My interests lie in the fields of **Machine Learning** and **Computer Vision**
-- 💻 I'm looking forward to working as an **AI Engineer** on the **Automotive Industry**
+- 💻 I'm looking forward to working as an **AI Engineer** for **Computer Vision**
 - 💪🏽 I like to do weight training, basketball, and soccer
 - 🚗 I'm a big fan of Ford F150
 - 📫 How to reach me: feel free to send me an email
