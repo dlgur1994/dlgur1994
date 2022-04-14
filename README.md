@@ -3,9 +3,9 @@
 [![Email](https://img.shields.io/badge/Email-sydbne@gmail.com-red?style=round&logo=gmail)](mailto:sydbne17@gmail.com)&nbsp;&nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdlgur1994%2Fdlgur1994&count_bg=Orange&title_bg=%23555555&icon=awesomelists.svg&icon_color=success&title=visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- 👨🏽‍💻 I'm working at **Hyundai Mobis**
+- 👨🏽‍💻 I'm working at **Hyundai Mobis Auntonomous Vehicle Lab**
 - 🎓 I earned my B.S. in **Computer Science and Engineering** from **Handong University**
-- 🌱 My interests lie in the fields of **Deep Learning** and **Computer Vision**
+- 🌱 My interests lie in the fields of **Radar**, **Deep Learning**, and **Computer Vision**
 - 💪🏽 I like to do crossfit, tennis, and basketball
 - 🚗 I'm a big fan of Pickup Trucks
 - 📫 How to reach me: feel free to send me an email
